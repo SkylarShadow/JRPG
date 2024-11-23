@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilities\\private\\gameplayabilityrepanimmontage.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\super\\documents\\unreal projects\\vehicletest\\intermediate\\build\\win64\\x64\\vehicletesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameplayabilities\\definitions.gameplayabilities.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilities\\public\\abilities\\gameplayabilityrepanimmontage.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilities\\public\\gameplayprediction.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\classes\\net\\serialization\\fastarrayserializer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\misc\\guidreferences.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\pushmodel\\pushmodel.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\netcoremodule.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\netcore\\uht\\fastarrayserializer.generated.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\gameplayprediction.generated.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\gameplayabilityrepanimmontage.generated.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\gameplayabilityrepanimmontage.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilitieseditor\\private\\gameplayabilitygraph.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\super\\documents\\unreal projects\\vehicletest\\intermediate\\build\\win64\\x64\\vehicletesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameplayabilitieseditor\\definitions.gameplayabilitieseditor.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilitieseditor\\public\\gameplayabilitygraph.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilitieseditor\\uht\\gameplayabilitygraph.generated.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilitieseditor\\uht\\gameplayabilitygraph.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

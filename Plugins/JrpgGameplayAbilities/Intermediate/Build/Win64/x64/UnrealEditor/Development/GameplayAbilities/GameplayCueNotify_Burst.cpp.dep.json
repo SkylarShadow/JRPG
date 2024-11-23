@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilities\\private\\gameplaycuenotify_burst.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\super\\documents\\unreal projects\\vehicletest\\intermediate\\build\\win64\\x64\\vehicletesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameplayabilities\\definitions.gameplayabilities.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilities\\public\\gameplaycuenotify_burst.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilities\\public\\gameplaycuenotify_static.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilities\\public\\gameplayeffecttypes.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilities\\public\\activegameplayeffecthandle.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\activegameplayeffecthandle.generated.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilities\\public\\gameplayeffectattributecapturedefinition.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilities\\public\\attributeset.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\attributeset.generated.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\gameplayeffectattributecapturedefinition.generated.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\gameplayeffecttypes.generated.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\gameplaycuenotify_static.generated.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilities\\public\\gameplaycuenotifytypes.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\gameplaycuenotifytypes.generated.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\gameplaycuenotify_burst.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\misc\\datavalidation.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\datavalidation.generated.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\gameplaycuenotify_burst.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

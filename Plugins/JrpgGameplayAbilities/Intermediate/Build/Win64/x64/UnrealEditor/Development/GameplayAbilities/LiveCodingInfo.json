@@ -1,0 +1,44 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GameplayAbilities.cpp.obj": [
+			"AbilitiesGameplayEffectComponent.gen.cpp.obj",
+			"AbilityAsync_WaitGameplayTagCountChanged.gen.cpp.obj",
+			"AbilitySystemCheatManagerExtension.gen.cpp.obj",
+			"AbilityTask_PlayAnimAndWait.gen.cpp.obj",
+			"AbilityTask_WaitGameplayTagCountChanged.gen.cpp.obj",
+			"AdditionalEffectsGameplayEffectComponent.gen.cpp.obj",
+			"AssetTagsGameplayEffectComponent.gen.cpp.obj",
+			"BlockAbilityTagsGameplayEffectComponent.gen.cpp.obj",
+			"ChanceToApplyGameplayEffectComponent.gen.cpp.obj",
+			"CustomCanApplyGameplayEffectComponent.gen.cpp.obj",
+			"GameplayAbilities.init.gen.cpp.obj",
+			"GameplayAbilitySpec.gen.cpp.obj",
+			"GameplayAbilityTargetingLocationInfoNetSerializer.gen.cpp.obj",
+			"GameplayCueTests.gen.cpp.obj",
+			"GameplayCue_Types.gen.cpp.obj",
+			"GameplayEffectAttributeCaptureDefinition.gen.cpp.obj",
+			"GameplayEffectComponent.gen.cpp.obj",
+			"GameplayEffectUIData.gen.cpp.obj",
+			"GameplayEffectUIData_TextOnly.gen.cpp.obj",
+			"ImmunityGameplayEffectComponent.gen.cpp.obj",
+			"InternalMinimalGameplayCueReplicationProxyNetSerializer.gen.cpp.obj",
+			"InternalMinimalReplicationTagCountMapNetSerializer.gen.cpp.obj",
+			"RemoveOtherGameplayEffectComponent.gen.cpp.obj",
+			"TargetTagRequirementsGameplayEffectComponent.gen.cpp.obj",
+			"TargetTagsGameplayEffectComponent.gen.cpp.obj",
+			"AbilityAsync.cpp.obj",
+			"AbilityAsync_WaitAttributeChanged.cpp.obj",
+			"AbilityAsync_WaitGameplayEffectApplied.cpp.obj",
+			"AbilityAsync_WaitGameplayEvent.cpp.obj",
+			"AbilityAsync_WaitGameplayTag.cpp.obj",
+			"AbilityAsync_WaitGameplayTagCountChanged.cpp.obj",
+			"AbilityAsync_WaitGameplayTagQuery.cpp.obj",
+			"GameplayAbility.cpp.obj",
+			"GameplayAbilitySet.cpp.obj",
+			"GameplayAbilityTargetActor.cpp.obj",
+			"GameplayAbilityTargetActor_ActorPlacement.cpp.obj",
+			"GameplayAbilityTargetActor_GroundTrace.cpp.obj"
+		]
+	}
+}

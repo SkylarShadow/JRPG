@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilitieseditor\\private\\gameplayabilitieseditor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\super\\documents\\unreal projects\\vehicletest\\intermediate\\build\\win64\\x64\\vehicletesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameplayabilitieseditor\\definitions.gameplayabilitieseditor.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilitieseditor\\public\\gameplayabilitieseditor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\kismet\\public\\blueprinteditor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\kismet\\public\\blueprinteditormodule.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\workfloworientedapp\\workflowcentricapplication.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\kismet\\public\\findinblueprints.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\kismet\\public\\findinblueprintmanager.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\kismet\\uht\\findinblueprintmanager.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\developer\\merge\\public\\merge.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\kismet\\public\\skismetinspector.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\text\\slatehyperlinkrun.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\text\\ilayoutblock.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\text\\irunrenderer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\text\\islaterun.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\istructuredetailsview.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\developer\\sourcecontrol\\public\\sourcecontroloperations.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolchangelist.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\developer\\sourcecontrol\\public\\sourcecontroloperationbase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontroloperation.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\developer\\sourcecontrol\\public\\sourcecontrolresultinfo.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\developer\\sourcecontrol\\public\\sourcecontrolpreferences.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\sourcecontrol\\uht\\sourcecontrolpreferences.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\workfloworientedapp\\workflowtabfactory.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\workfloworientedapp\\workflowtabmanager.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\editorreimporthandler.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilities\\public\\gameplayabilityblueprint.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\gameplayabilityblueprint.generated.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\source\\gameplayabilitieseditor\\public\\gameplayabilitygraphschema.h",
+            "c:\\users\\super\\documents\\unreal projects\\vehicletest\\plugins\\jrpggameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilitieseditor\\uht\\gameplayabilitygraphschema.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\kismet2\\blueprinteditorutils.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\classviewer\\public\\classviewermodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
